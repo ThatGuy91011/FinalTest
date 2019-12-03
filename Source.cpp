@@ -7,6 +7,6 @@ int main()
 	Person Sans;
 	Sans.Talk("ehehehehehehehehehe");
 
-	
+	 
 	return 0;
 }
