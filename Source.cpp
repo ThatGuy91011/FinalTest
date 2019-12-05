@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-	Person Sans;
-	Sans.Talk("ehehehehehehehehehe");
+	Person Char1("Smith");
 
+	Char1.Yoga();
 	 
 	return 0;
 }
